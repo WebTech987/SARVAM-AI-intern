@@ -1,2 +1,6 @@
 tqdm
 datasets
+numpy
+pandas
+scrapy
+
